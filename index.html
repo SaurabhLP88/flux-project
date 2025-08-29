@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <link href="./todo-app.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="todos-main">
+        <h1>Todo App with Flux</h1>
+        <div class="todos-cover">
+            <div class="add-todo-form">
+                <input type="text" id="todo-input" placeholder="Enter a todo task" />
+                <button onclick="addTodo()">Add Todo</button>
+            </div>
+            <div class="todos-content">
+                <ul id="todos-container"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="./todo-app.js"></script>
+</body>
+</html>
