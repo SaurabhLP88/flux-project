@@ -32,6 +32,6 @@ This project demonstrates the **Flux architecture** through a simple **Todo Appl
 
 2. Open the project folder:
     ```bash
-    cd flux-todo-app
+    cd flux-project
 
 3. Open index.html in your browser.
