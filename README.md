@@ -31,6 +31,7 @@ This project demonstrates the **Flux architecture** through a simple **Todo Appl
    git clone https://github.com/SaurabhLP88/flux-project.git
 
 2. Open the project folder:
-    ```cd flux-todo-app
+    ```bash
+    cd flux-todo-app
 
 3. Open index.html in your browser.
